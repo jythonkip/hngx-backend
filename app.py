@@ -17,7 +17,7 @@ def get_info():
     current_utc_time = datetime.now(pytz.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
 
     # GitHub URLs
-    github_file_url = "https://github.com/jython/hngx-backend/blob/main/file_name.ext"
+    github_file_url = "https://github.com/jython/hngx-backend/app.py"
     github_repo_url = "https://github.com/jython/hngx-backend"
 
     # Create the JSON response
