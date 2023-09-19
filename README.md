@@ -43,23 +43,6 @@ A Status Code of Success
    Ensure the endpoint is accessible.
    Check the returned JSON against the defined format.
    Validate the correctness of each data point in the JSON response.
-   Submission Mode
-   Please follow these submission guidelines
-   Get into your DM
+ 
 
-10. **Type /grade** <your-api-endpoint-url-with-the-query-parameters>
-    E.g: /grade http://example.com/api?slack_name=example_name&track=backend
-    Check your result
-    Very Important.....
-    Finally, please use the provided Google Form. Within the form, share the URL of your hosted endpoint, along with the GitHub repository link of the file being run, and where the full source code can be found.
 
-## Warning ⚠️
-
-Before submitting, do a final check with the grader bot to ensure that your endpoint is operational and meets the specified requirements. Incomplete or non-functional submissions may affect your evaluation.
-
-## Submission Deadline ⌛
-
-The deadline for submissions is 12th September 2023, 11:59 PM GMT + 1.
-Late submissions will not be entertained.
-If you encounter any issues or have questions regarding the task or the submission process, please message any backend mentor.
-Best of luck!
